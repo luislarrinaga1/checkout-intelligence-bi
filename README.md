@@ -14,6 +14,8 @@ A retailer has a year of transaction records but no trusted view of where revenu
 
 [Online Retail dataset](https://archive.ics.uci.edu/dataset/352/online+retail) (UCI Machine Learning Repository): roughly 542,000 line items from a UK-based online retailer, December 1, 2010 to December 9, 2011. Many customers are wholesale buyers, and about 25% of rows have no customer ID.
 
+Citation: Chen, D. (2015). *Online Retail* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
 ## Approach
 
 | Phase | What I did | Tools |
