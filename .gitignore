@@ -1,0 +1,5 @@
+.DS_Store
+~$*
+.pynb_checkpoints/
+.ipynb_checkpoints/
+Data/Clean Data/checkout_intelligence_features.csv
